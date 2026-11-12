@@ -1,4 +1,4 @@
-# AmmaCare — NRI Parent Care Agent (V1, Maitri-like)
+# AmmaCare — NRI Parent Care Agent (V1, Maitri-like) -Demo
 
 WhatsApp-style AI assistant for elderly parents in Kerala, Malayalam-first.
 Built for a ₹0 budget: Python standard library only, no paid APIs, no API key needed to run the demo.

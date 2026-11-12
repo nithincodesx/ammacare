@@ -31,12 +31,12 @@ Parent chat (left) and caregiver approval dashboard (right) — Amma asks in Man
 the agent replies in Malayalam and prepares tasks; nothing is booked or bought until
 the family in Dubai approves.
 
-![AmmaCare demo — parent chat, pending tasks, medicine reminders](docs/screenshots/demo-dashboard.png)
+![AmmaCare demo — parent chat, pending tasks, medicine reminders](docs/screenshots/demo-dashboard.svg)
 
 Emergency flow — a fall/help message fires an instant alert on the caregiver dashboard
 and a safety reply to the parent (call 112 — the agent is not an emergency service).
 
-![AmmaCare demo — emergency alert](docs/screenshots/demo-emergency.png)
+![AmmaCare demo — emergency alert](docs/screenshots/demo-emergency.svg)
 
 ## Run the demo
 ```bash
